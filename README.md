@@ -1,7 +1,7 @@
-- 👋 Olá, meu nome é Helena Oliveira.
-- 👀 Estou interessado em Desenvolvimento Web.
-- 🌱 Atualmente estou aprendendo HTML, CSS.
-- 📫 Como chegar até mim: hs.oliveira366@gmail.com
+- 👋 Hi, my name is Helena Oliveira.
+- 👀 I am interested in Web Development.
+- 🌱 I'm currently learning HTML, CSS an Bootstrap.
+- 📫 How to reach me: hs.oliveira366@gmail.com
 
 <!---
 HelenaOliveira366/HelenaOliveira366 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
