@@ -1,6 +1,6 @@
 - 👋 Hi, my name is Helena Oliveira.
 - 👀 I am interested in Web Development.
-- 🌱 I'm currently learning HTML, CSS an Bootstrap.
+- 🌱 I'm currently learning HTML, CSS and Javascript.
 - 📫 How to reach me: hs.oliveira366@gmail.com
 
 <!---
