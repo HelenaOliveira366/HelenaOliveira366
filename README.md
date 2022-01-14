@@ -1,7 +1,8 @@
-- 👋 Hi, my name is Helena Oliveira.
+<h1>Hi, I'm Helena Oliveira 👋</h1>
+
 - 👀 I am interested in Web Development.
-- 🌱 I'm currently learning HTML, CSS and Javascript.
-- 📫 How to reach me: hs.oliveira366@gmail.com
+- 🌱 I'm currently learning <strong>HTML<strong/>, <strong>CSS</strong> and <strong>Javascript</strong>.
+- 📫 How to reach me: <strong>hs.oliveira366@gmail.com</strong>
 
 
 ![Helena Oliveira's GitHub stats](https://github-readme-stats.vercel.app/api?username=HelenaOliveira366&show_icons=true&theme=radical)
