@@ -1,7 +1,7 @@
 <h1>Hi, I'm Helena Oliveira 👋</h1>
 
 - 👀 I am interested in Web Development.
-- 🌱 I'm currently learning <strong>HTML<strong/>, <strong>CSS</strong>, <strong>Bootstrap</strong> and <strong>Javascript</strong>.
+- 🌱 I'm currently learning <strong>HTML<strong/>, <strong>CSS</strong> and <strong>Javascript</strong>.
 - 📫 How to reach me: <strong>hs.oliveira.webdeveloper@gmail.com</strong>
 
 
