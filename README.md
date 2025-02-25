@@ -2,7 +2,7 @@
 
 > Front-end web development student
 
-> I'm studying CSS, HTML, Bootstrap, JS, C# and Python
+> I'm studying CSS, HTML, Bootstrap and JS
 
 > Contact: <strong>hs.oliveira.webdeveloper@gmail.com</strong>
 
